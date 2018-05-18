@@ -1,6 +1,8 @@
 #! /usr/bin/bash
 
-# this program is for reading the variable into system defined - REPLY
+# file : read_variables_Reply.sh
+
+# this program is for reading  input values into system def. variable - REPLY
 
 echo "Please enter your information"
 read
