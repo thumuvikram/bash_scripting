@@ -7,5 +7,5 @@ b=20		# b is variable that is storing value 20
 c=30
 
 echo "the value of a is: $a "
-echo "the value of b is : $b "
+eho "the value of b is : $b "
  $ c
